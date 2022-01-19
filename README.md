@@ -1,4 +1,4 @@
-# Attendance-system-using-face-recognition
+# Attendance-System-using-Face-Recognition
 
 ## Features
 - Takes live photo of a class room as input and performs face recognition and identification 
