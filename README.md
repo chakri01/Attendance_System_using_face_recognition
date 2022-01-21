@@ -18,5 +18,3 @@
 
 ## Results
 ![output1](https://github.com/chakri01/Attendance_System_using_face_recognition/blob/main/results/output1.PNG)
-</br></br></br>
-![output2]()
