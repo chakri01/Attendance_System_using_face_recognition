@@ -13,7 +13,10 @@
   - face_recognition (deep learning and core face recognition utilities)
 - MongoDB (Database)
 
-## Outputs
+## System Architecture
+![block_diagram]()
+
+## Results
 ![output1]()
 </br></br></br>
 ![output2]()
