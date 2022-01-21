@@ -14,7 +14,7 @@
 - MongoDB (Database)
 
 ## System Architecture
-![block_diagram]()
+![block_diagram](https://github.com/chakri01/Attendance_System_using_face_recognition/blob/main/results/project.jpeg)
 
 ## Results
 ![output1]()
